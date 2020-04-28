@@ -8,7 +8,7 @@ public class TestClass1 {
 		System.out.println("First line comment in class TestClass1");
 		System.out.println("Second line comment in class TestClass1");
 		System.out.println("Third line comment in class TestClass1 - redo2");
-		System.out.println("Fourth line comment in class TestClass1 - redo");
+		System.out.println("Fourth line comment in class TestClass1 - redo3");
 
 	}
 
