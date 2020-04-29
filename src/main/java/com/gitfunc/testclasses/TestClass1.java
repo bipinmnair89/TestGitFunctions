@@ -12,8 +12,7 @@ public class TestClass1 {
 		
 		
 		System.out.println("New data revised");
-		
-		System.out.println("D1");
+
 	}
 
 }
