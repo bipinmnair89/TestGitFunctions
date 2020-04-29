@@ -10,7 +10,7 @@ public class TestClass1 {
 		System.out.println("Third line comment in class TestClass1 - redo2");
 		System.out.println("Fourth line comment in class TestClass1 - redo3");
 		
-		
+		System.out.println("New data revised3");
 		System.out.println("New data revised");
 		System.out.println("A separate new trash class has been added new");
 
