@@ -12,6 +12,7 @@ public class TestClass1 {
 		
 		
 		System.out.println("New data revised");
+		System.out.println("Commit msg which needs to be reverted");
 
 	}
 
