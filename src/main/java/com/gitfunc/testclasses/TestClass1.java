@@ -12,7 +12,7 @@ public class TestClass1 {
 		
 		
 		System.out.println("New data revised");
-		System.out.println("A separate new trash class has been added");
+		System.out.println("A separate new trash class has been added new");
 
 	}
 
