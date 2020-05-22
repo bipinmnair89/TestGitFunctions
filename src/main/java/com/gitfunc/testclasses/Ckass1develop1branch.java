@@ -6,5 +6,9 @@ public class Ckass1develop1branch {
 	{
 		
 	}
-
+	
+	public void subtract()
+	{
+		
+	}
 }
